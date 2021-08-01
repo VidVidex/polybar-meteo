@@ -6,8 +6,6 @@ import pytz
 import os
 from pathlib import Path
 
-parameter_id = 'xO44xK7T'
-
 config = {}
 
 env_file_path = os.path.join(Path(__file__).parent.resolve(), '.env')
